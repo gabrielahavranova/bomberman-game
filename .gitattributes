@@ -1,1 +1,5 @@
 doc/* linguist-vendored
+*.html linguist-detecable=false
+*.js linguist-detecable=false
+*.css linguist-detecable=false
+
