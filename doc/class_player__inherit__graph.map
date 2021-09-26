@@ -1,0 +1,5 @@
+<map id="Player" name="Player">
+<area shape="rect" id="node2" href="$class_computer_player.html" title="represents AI bots " alt="" coords="5,615,184,1073"/>
+<area shape="rect" id="node3" href="$class_human_player_arrows.html" title="class HumanPlayerArrows inherits from Player, defines Human Player playing with arrows + shift ..." alt="" coords="208,791,379,897"/>
+<area shape="rect" id="node4" href="$class_human_player_w_a_s_d.html" title="class HumanPlayerWASD inherits from Player, defines Human Player playing with WASD + space ..." alt="" coords="403,791,573,897"/>
+</map>

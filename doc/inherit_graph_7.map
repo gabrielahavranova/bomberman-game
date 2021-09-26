@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_player.html" title="base class Player to represent any player * " alt="" coords="5,56,64,83"/>
+<area shape="rect" id="node2" href="$class_computer_player.html" title="represents AI bots " alt="" coords="125,5,241,32"/>
+<area shape="rect" id="node3" href="$class_human_player_arrows.html" title="class HumanPlayerArrows inherits from Player, defines Human Player playing with arrows + shift ..." alt="" coords="112,56,255,83"/>
+<area shape="rect" id="node4" href="$class_human_player_w_a_s_d.html" title="class HumanPlayerWASD inherits from Player, defines Human Player playing with WASD + space ..." alt="" coords="112,107,255,133"/>
+</map>

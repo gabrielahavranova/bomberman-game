@@ -1,0 +1,11 @@
+<map id="include/Game.h" name="include/Game.h">
+<area shape="rect" id="node8" href="$_map_8h.html" title="Map.h" alt="" coords="911,80,969,107"/>
+<area shape="rect" id="node17" href="$_player_8h.html" title="Player.h" alt="" coords="567,229,638,256"/>
+<area shape="rect" id="node19" href="$_configuration_8h.html" title="Configuration.h" alt="" coords="331,304,442,331"/>
+<area shape="rect" id="node22" href="$_human_player_arrows_8h.html" title="HumanPlayerArrows.h" alt="" coords="526,155,679,181"/>
+<area shape="rect" id="node23" href="$_human_player_w_a_s_d_8h.html" title="HumanPlayerWASD.h" alt="" coords="195,155,349,181"/>
+<area shape="rect" id="node24" href="$_computer_player_8h.html" title="ComputerPlayer.h" alt="" coords="323,80,450,107"/>
+<area shape="rect" id="node9" href="$_texture_manager_8h.html" title="TextureManager.h" alt="" coords="1058,304,1185,331"/>
+<area shape="rect" id="node14" href="$_explosion_8h.html" title="Explosion.h" alt="" coords="1117,155,1208,181"/>
+<area shape="rect" id="node20" href="$_file_manager_8h.html" title="FileManager.h" alt="" coords="888,155,992,181"/>
+</map>

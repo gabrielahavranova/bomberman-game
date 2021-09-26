@@ -1,0 +1,4 @@
+<map id="ComputerPlayer" name="ComputerPlayer">
+<area shape="rect" id="node2" href="$class_player.html" title="base class Player to represent any player * " alt="" coords="389,359,548,671"/>
+<area shape="rect" id="node3" href="$struct_vector2_d.html" title="simple struct to represent pair of coordinates x and y, supports == and != operators * ..." alt="" coords="5,160,111,252"/>
+</map>

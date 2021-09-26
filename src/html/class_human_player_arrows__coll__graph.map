@@ -1,0 +1,4 @@
+<map id="HumanPlayerArrows" name="HumanPlayerArrows">
+<area shape="rect" id="node2" href="$class_player.html" title="base class Player to represent any player * " alt="" coords="47,95,106,121"/>
+<area shape="rect" id="node3" href="$struct_vector2_d.html" title="simple struct to represent pair of coordinates x and y, supports == and != operators * ..." alt="" coords="38,5,115,32"/>
+</map>

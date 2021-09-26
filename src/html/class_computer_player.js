@@ -1,0 +1,35 @@
+var class_computer_player =
+[
+    [ "State", "class_computer_player.html#ae1858ee42c8257aa08c59f05800552fb", [
+      [ "REGULAR", "class_computer_player.html#ae1858ee42c8257aa08c59f05800552fbabb07d9529a14fcde4e7092d0c4ef6f00", null ],
+      [ "RANDOM", "class_computer_player.html#ae1858ee42c8257aa08c59f05800552fba9c23a227b936be71f61bf1c62f8440d8", null ]
+    ] ],
+    [ "ComputerPlayer", "class_computer_player.html#a8509a8d494d58261190943112d7ff79f", null ],
+    [ "~ComputerPlayer", "class_computer_player.html#a151f1b9cc04bd57eee9e5a6fbdbcb713", null ],
+    [ "checkBoxesLeft", "class_computer_player.html#ab581d55455f3f3450dc202947da6cfcf", null ],
+    [ "findLeastDangerousTile", "class_computer_player.html#aa0743924a6e1114d13558cd21f6d2b21", null ],
+    [ "findNearestSafeTile", "class_computer_player.html#a61b684010ca435d60a383f93a1f749a9", null ],
+    [ "findSafeToBombTile", "class_computer_player.html#a1f33998c732cdd872b54b92a364e7895", null ],
+    [ "getCurrentMap", "class_computer_player.html#a2e8414564ad281fb921f8e66a2990bf2", null ],
+    [ "getPath", "class_computer_player.html#ace0373280540fcc8116289e0185e7bee", null ],
+    [ "hide", "class_computer_player.html#aae89319939793faeddc0bdf177056c22", null ],
+    [ "isBomb", "class_computer_player.html#a0f0eddabc588bb9088af6929e6e76424", null ],
+    [ "isBox", "class_computer_player.html#a390bce46b0ab61aeda628337ef3cf7fd", null ],
+    [ "isSteppable", "class_computer_player.html#a96eef964cfba6854b1137ce744c62341", null ],
+    [ "move", "class_computer_player.html#a9776ba94a9ba7700f9e8632968bcb363", null ],
+    [ "moveDown", "class_computer_player.html#a76525a3d1694f6c9d8f91242135bee27", null ],
+    [ "moveLeft", "class_computer_player.html#a9801072ac472a5646638419e03dbea0d", null ],
+    [ "moveRight", "class_computer_player.html#ae3b9a2bec4fec7a92c651edc974d3a88", null ],
+    [ "moveTowards", "class_computer_player.html#a298bb01a145379e5b36abc68a03e43e1", null ],
+    [ "moveUp", "class_computer_player.html#a618f67a79fd436e846a2ed7ad2f72c97", null ],
+    [ "nextToBox", "class_computer_player.html#a45366a9d1fd0cb94b3711276699530b1", null ],
+    [ "notVisited", "class_computer_player.html#aacbd2ff876f13961b45393368eb94043", null ],
+    [ "plantBomb", "class_computer_player.html#ab96bdc01d25f3fd96004def55fc7db19", null ],
+    [ "posAlmostEqual", "class_computer_player.html#ab71b2b6e2be21d2571094e13f73ff4fd", null ],
+    [ "safe", "class_computer_player.html#a4eead40dde4693e6f51db21069b111fe", null ],
+    [ "my_map", "class_computer_player.html#a41fafb31769d8329de3fd8a5bfe99cc1", null ],
+    [ "my_tile", "class_computer_player.html#a4b013c0597cc4d90208a4dfb1a8f92dc", null ],
+    [ "path", "class_computer_player.html#af0031c2545d8b9076f7cca9a032ac024", null ],
+    [ "places_to_bomb", "class_computer_player.html#ae1b24ef1981eb647df5f329db8696142", null ],
+    [ "state", "class_computer_player.html#aa1141c3c181bf1f9b57d16eaf05fe300", null ]
+];
